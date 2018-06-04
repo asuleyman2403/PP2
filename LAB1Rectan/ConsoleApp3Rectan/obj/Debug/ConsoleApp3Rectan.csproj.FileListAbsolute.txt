@@ -1,0 +1,14 @@
+C:\Users\Асыл\source\repos\ConsoleApp3Rectan\ConsoleApp3Rectan\obj\Debug\ConsoleApp3Rectan.csprojResolveAssemblyReference.cache
+C:\Users\Асыл\source\repos\ConsoleApp3Rectan\ConsoleApp3Rectan\obj\Debug\ConsoleApp3Rectan.csproj.CoreCompileInputs.cache
+C:\Users\Асыл\source\repos\ConsoleApp3Rectan\ConsoleApp3Rectan\bin\Debug\ConsoleApp3Rectan.exe.config
+C:\Users\Асыл\source\repos\ConsoleApp3Rectan\ConsoleApp3Rectan\bin\Debug\ConsoleApp3Rectan.exe
+C:\Users\Асыл\source\repos\ConsoleApp3Rectan\ConsoleApp3Rectan\bin\Debug\ConsoleApp3Rectan.pdb
+C:\Users\Асыл\source\repos\ConsoleApp3Rectan\ConsoleApp3Rectan\obj\Debug\ConsoleApp3Rectan.exe
+C:\Users\Асыл\source\repos\ConsoleApp3Rectan\ConsoleApp3Rectan\obj\Debug\ConsoleApp3Rectan.pdb
+C:\Users\Асыл\Desktop\PP2\LabWorks\LAB1\LAB1Rectan\ConsoleApp3Rectan\obj\Debug\ConsoleApp3Rectan.csprojResolveAssemblyReference.cache
+C:\Users\Асыл\Desktop\PP2\LabWorks\LAB1\LAB1Rectan\ConsoleApp3Rectan\obj\Debug\ConsoleApp3Rectan.csproj.CoreCompileInputs.cache
+C:\Users\Асыл\Desktop\PP2\LabWorks\LAB1\LAB1Rectan\ConsoleApp3Rectan\obj\Debug\ConsoleApp3Rectan.exe
+C:\Users\Асыл\Desktop\PP2\LabWorks\LAB1\LAB1Rectan\ConsoleApp3Rectan\obj\Debug\ConsoleApp3Rectan.pdb
+C:\Users\Асыл\Desktop\PP2\LabWorks\LAB1\LAB1Rectan\ConsoleApp3Rectan\bin\Debug\ConsoleApp3Rectan.exe.config
+C:\Users\Асыл\Desktop\PP2\LabWorks\LAB1\LAB1Rectan\ConsoleApp3Rectan\bin\Debug\ConsoleApp3Rectan.exe
+C:\Users\Асыл\Desktop\PP2\LabWorks\LAB1\LAB1Rectan\ConsoleApp3Rectan\bin\Debug\ConsoleApp3Rectan.pdb
